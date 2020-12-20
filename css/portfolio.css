@@ -7,3 +7,9 @@
 .navbar-brand {
     background-color: rgb(76, 230, 217);
 }
+body {
+    background-color: gray;
+}
+.container {
+    background-color: white;
+}

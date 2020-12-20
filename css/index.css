@@ -7,9 +7,11 @@
 .navbar-brand {
     background-color: rgb(76, 230, 217);
 }
-.float-right {
-    float: inline-end;
-    float: right;
+body {
+    background-color: gray;
+}
+.container {
+    background-color: white;
 }
 .image {
     float: left;
