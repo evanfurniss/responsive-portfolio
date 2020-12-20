@@ -1,0 +1,9 @@
+.navbar {
+    float: inline-end;
+    margin-right: 20px;
+    padding: 10px;
+    padding-left: 30px;
+}
+.navbar-brand {
+    background-color: rgb(76, 230, 217);
+}
