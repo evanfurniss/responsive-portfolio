@@ -9,12 +9,9 @@
     background-color: rgb(56, 173, 164);
 }
 body {
-    background-color: gray;
+    background-color: rgb(179, 179, 179);
 }
-.container {
-    margin-left: 30px;
-}
-.col-md-9 .col-md-12 {
+.col-md-12 {
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: white;
@@ -22,14 +19,18 @@ body {
 .move-down {
     padding-top: 10px;
 }
-.col-md-12 h1 {
+h1 {
     font-family: 'Playfair Display', serif;
     color: rgb(56, 173, 164);
     padding-top: 20px;
     padding-bottom: 20px;
     border-bottom: 1px solid rgb(153, 153, 153);
 }
-.col-md-12 img {
+img {
     padding: 20px ;
 }
-
+footer {
+    border-top: 1px solid rgb(153, 153, 153);
+    margin: 50px;
+    background-color: aqua;
+}
