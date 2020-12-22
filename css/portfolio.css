@@ -3,15 +3,33 @@
     margin-right: 20px;
     padding: 10px;
     padding-left: 30px;
+    width: 100%;
 }
 .navbar-brand {
-    background-color: rgb(76, 230, 217);
+    background-color: rgb(56, 173, 164);
 }
 body {
     background-color: gray;
 }
 .container {
-    background-color: white;
-    float: left;
     margin-left: 30px;
 }
+.col-md-9 .col-md-12 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+.move-down {
+    padding-top: 10px;
+}
+.col-md-12 h1 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(56, 173, 164);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(153, 153, 153);
+}
+.col-md-12 img {
+    padding: 20px ;
+}
+
