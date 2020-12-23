@@ -18,4 +18,8 @@ https://github.com/evanfurniss/responsive-portfolio
 https://evanfurniss.github.io/responsive-portfolio/index.html
 
 ## Preview images
-Preview images can be found in the "Preview pics" folder, located in the main responsive-portfolio repo.
+<img src="preview-pics/about.png">
+
+<img src="preview-pics/contact.png">
+
+<img src="preview-pics/portfolio.png">
