@@ -14,6 +14,7 @@ I also utilized Google fonts for my h1 sections.
 
 ## GitHub repo link and active link
 https://github.com/evanfurniss/responsive-portfolio
+
 https://evanfurniss.github.io/responsive-portfolio/index.html
 
 ## Preview images
