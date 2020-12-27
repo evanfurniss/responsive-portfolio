@@ -1,11 +1,11 @@
 # Responsive Portfolio
 
 ## Overview
-This assignment asked that we set up an initial portfolio page, built from the ground up using HTML, CSS, and assistance from Bootstrap. With these tools I was able to create a very basic responsive style portfolio. It currently has 3 pages; an about me of days past, a contact page for present day inqueries, and a portfolio page of projects yet to come. 
+I created a portfolio page, built from the ground up using HTML, CSS, and assistance from Bootstrap. With these tools, I was able to create a responsive style portfolio. It currently has 3 pages; an about me, a contact page, and a portfolio page of my past projects. 
 
-I had a very hard time wrapping my brain around the idea of integrating bootstrap into the code. After some help from students, and especially the assistance of our TA, Kieran, I was able to create a basic webpage that I will continue to bulk up over our holiday break. The basics of HTML make sense, the addition of CSS is a little more fuzzy and only several hours ago did bootstrap start to click. 
+I had a very hard time initially with integrating bootstrap. After some help from an associate, Kieran, I was able to create a portfolio where I will add past, current, and future projects in an easy to navigate page. The fundamentals of HTML and CSS had been a challenge. With Kieran's assistance I feel far more confident with these technologies. Bootstrap was helpful in creating different sections to my webpage. In the future I hope to completely rehaul my webpage to allow my personal CSS flavor to come throuh.
 
-Future content that will be available on my active page soon will include images of my previous work, a more personalized about me page, and a contact form that pulls that information for me and stores it for future use.
+Future content that will be available on my active page will include links to my previous work, a more personalized about me page, and a contact link that will allow users to send me an email.
 
 ## Acknowledgements
 I used Bootstrap version 4.5.3 while creating the portfolio framework.
